@@ -31,6 +31,7 @@ const props = defineProps({
   }, 
 })
 
+
 const video = ref(null)
 
 //当前页面的video只播放一个
